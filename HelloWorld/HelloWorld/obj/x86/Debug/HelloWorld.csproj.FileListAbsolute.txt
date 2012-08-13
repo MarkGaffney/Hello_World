@@ -5,3 +5,6 @@ C:\Users\Mark\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWor
 C:\Users\Mark\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.pdb
 C:\Junk\HelloWorld\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
 C:\Junk\HelloWorld\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Junk\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Junk\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Junk\HelloWorld\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
