@@ -1,0 +1,7 @@
+C:\Users\Mark\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Mark\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Mark\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Mark\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Junk\HelloWorld\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Junk\HelloWorld\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
