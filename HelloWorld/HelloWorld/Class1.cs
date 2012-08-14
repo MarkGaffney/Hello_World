@@ -8,5 +8,6 @@ namespace HelloWorld
     class Class1
     {
         string fred get set
+            string VisualStudioString get set
     }
 }
